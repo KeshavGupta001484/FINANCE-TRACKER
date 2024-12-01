@@ -80,12 +80,6 @@ Enter description: Lunch
 Transaction added successfully!
 ```
 
-### Expense Visualization
-
-![Expense Summary Chart](C:\Users\kesha\OneDrive\Desktop\Figure_1.png)
-
----
-
 ## File Structure
 
 ```plaintext
