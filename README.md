@@ -82,7 +82,7 @@ Transaction added successfully!
 
 ### Expense Visualization
 
-![Expense Summary Chart](example_chart.png)
+![Expense Summary Chart](C:\Users\kesha\OneDrive\Desktop\Figure_1.png)
 
 ---
 
